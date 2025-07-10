@@ -32,4 +32,4 @@ Il risultato finale è una mappa tematica delle frane nel comune di Guardia Sanf
 - I dati relativi alle frane derivano da fonti open e sono stati elaborati esclusivamente per scopi illustrativi e didattici. Verificare sempre le condizioni d’uso prima di ogni redistribuzione.
 
 ## Accesso ai dati
-
+https://drive.google.com/drive/folders/17vDvpHlAQmcpCtawjkp7drv-sQ24BLfS?usp=drive_link
